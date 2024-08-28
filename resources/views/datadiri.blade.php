@@ -23,7 +23,7 @@
             </tr>
             <tr>
                 <td>Prodi</td>
-                <td>: D4 Sistem Informsai Bisnis</td>
+                <td>: D4 Sistem Informasi Bisnis</td>
             </tr>
             <tr>
                 <td>Jurusan</td>
